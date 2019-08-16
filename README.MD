@@ -1,5 +1,6 @@
 # VS Code Can Do That Workshop
 
+VS code ticks
 These exercises are part of the "VS Code Can Do That" workshop from Front End Masters.
 
 [aka.ms/vs-code-workshop](aka.ms/vs-code-workshop)
